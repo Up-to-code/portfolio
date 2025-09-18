@@ -15,7 +15,7 @@ const links: FooterLinkProps[] = [
   },
 
   {
-    href: "https://mickasmt.com",
+    href: "https://portfolio-kappa-plum-65.vercel.app/",
     label: "Website",
   },
 ];
