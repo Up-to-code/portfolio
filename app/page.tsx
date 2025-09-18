@@ -6,7 +6,6 @@ import { getPopularRepos } from "@/lib/utils";
 
 export default async function Home() {
   const popularRepos = await getPopularRepos();
-  console.log(popularRepos);
 
   return (
     <div className="mt-3 text-right"> {/* اتجاه النص لليمين */}
